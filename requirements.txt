@@ -1,1 +1,4 @@
+# Pinning dependencies
+# use >= sign to allow newer version to be installed
+# if version number is not given, the latest version will be installed
 numpy==1.14.5
