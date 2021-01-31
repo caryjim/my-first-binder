@@ -2,3 +2,6 @@
 # use >= sign to allow newer version to be installed
 # if version number is not given, the latest version will be installed
 numpy==1.14.5
+
+#Another kind of dependency is data (<10MB is ideal)
+#use postBuild for files between 10sMD to hundredths MD
